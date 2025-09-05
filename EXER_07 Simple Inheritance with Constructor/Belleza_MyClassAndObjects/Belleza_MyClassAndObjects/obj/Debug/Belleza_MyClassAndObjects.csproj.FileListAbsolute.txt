@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\EXER_02  MyClassAndObjects\Belleza_MyClassAndObjects\Belleza_MyClassAndObjects\bin\Debug\Belleza_MyClassAndObjects.exe.config
+C:\Users\ACT-STUDENT\Desktop\EXER_02  MyClassAndObjects\Belleza_MyClassAndObjects\Belleza_MyClassAndObjects\bin\Debug\Belleza_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_02  MyClassAndObjects\Belleza_MyClassAndObjects\Belleza_MyClassAndObjects\bin\Debug\Belleza_MyClassAndObjects.pdb
+C:\Users\ACT-STUDENT\Desktop\EXER_02  MyClassAndObjects\Belleza_MyClassAndObjects\Belleza_MyClassAndObjects\obj\Debug\Belleza_MyClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_02  MyClassAndObjects\Belleza_MyClassAndObjects\Belleza_MyClassAndObjects\obj\Debug\Belleza_MyClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_02  MyClassAndObjects\Belleza_MyClassAndObjects\Belleza_MyClassAndObjects\obj\Debug\Belleza_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_02  MyClassAndObjects\Belleza_MyClassAndObjects\Belleza_MyClassAndObjects\obj\Debug\Belleza_MyClassAndObjects.pdb
