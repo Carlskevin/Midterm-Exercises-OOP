@@ -1,0 +1,7 @@
+C:\Users\carls\Desktop\exer8\bin\Debug\exer8.exe.config
+C:\Users\carls\Desktop\exer8\bin\Debug\exer8.exe
+C:\Users\carls\Desktop\exer8\bin\Debug\exer8.pdb
+C:\Users\carls\Desktop\exer8\obj\Debug\exer8.csproj.AssemblyReference.cache
+C:\Users\carls\Desktop\exer8\obj\Debug\exer8.csproj.CoreCompileInputs.cache
+C:\Users\carls\Desktop\exer8\obj\Debug\exer8.exe
+C:\Users\carls\Desktop\exer8\obj\Debug\exer8.pdb
