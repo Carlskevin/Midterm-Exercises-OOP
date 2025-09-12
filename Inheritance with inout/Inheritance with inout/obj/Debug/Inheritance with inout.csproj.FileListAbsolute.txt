@@ -1,8 +1,0 @@
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\bin\Debug\Inheritance with inout.exe.config
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\bin\Debug\Inheritance with inout.exe
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\bin\Debug\Inheritance with inout.pdb
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\obj\Debug\Inheritance with inout.csproj.AssemblyReference.cache
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\obj\Debug\Inheritance with inout.csproj.CoreCompileInputs.cache
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\obj\Debug\Inheritance with inout.exe
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\obj\Debug\Inheritance with inout.pdb
-C:\Users\carls\Desktop\Inheritance with inout\Inheritance with inout\obj\Debug\Inheritance with inout.exe.config
